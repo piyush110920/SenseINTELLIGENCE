@@ -1,6 +1,0 @@
-cd "C:\Users\cw\OneDrive\Desktop\SenseLive ChatBOT\senseINTELLIGENCE\backend"
-sense_env\Scripts\activate
-pip install --upgrade google-generativeai flask flask-cors
-set GOOGLE_API_KEY=YOUR_API_KEY
-python app.py
-open html file 
