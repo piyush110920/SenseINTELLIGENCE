@@ -1,0 +1,15 @@
+flask==2.3.3
+sentence-transformers==2.6.1
+faiss-cpu==1.7.4
+transformers==4.39.3
+tokenizers==0.19.1
+huggingface-hub==0.20.3
+langchain==0.1.16
+langchain-core==0.3.60
+langchain-community==0.0.38
+langchain-huggingface==0.2.0
+PyMuPDF==1.23.25
+packaging==23.2
+tqdm==4.67.1
+numpy==1.26.4
+requests==2.31.0
